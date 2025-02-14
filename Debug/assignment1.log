@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\이채린\source\repos\assignment1\assignment1\main.cpp(51,28): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\이채린\source\repos\assignment1\assignment1\main.cpp(52,15): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\이채린\source\repos\assignment1\assignment1\main.cpp(53,16): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\이채린\source\repos\assignment1\assignment1\main.cpp(54,18): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  assignment1.vcxproj -> C:\Users\이채린\source\repos\assignment1\Debug\assignment1.exe
